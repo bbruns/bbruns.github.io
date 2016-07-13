@@ -1,0 +1,33 @@
+.inhalt {
+    margin-top: 80px; /* offset for display below navigation bar */
+}
+
+.lead {
+    line-height: 300%;
+}
+
+.profilbild_image {
+    border-radius: 2000px;
+    margin-bottom: 20px;
+}
+
+.artikel-metadata {
+    margin-top: 20px; 
+}
+
+.artikelbild {
+    margin-top: 20px;     
+    margin-bottom: 10px;
+}
+
+.bildunterschrift {
+    margin-bottom: 20px;
+}
+
+.ersterartikel {
+    margin-top: 80px; /* offset for display below navigation bar */
+}
+
+.artikel {
+    margin-top: 40px; /* offset for display below navigation bar */
+}
