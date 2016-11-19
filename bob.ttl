@@ -1,0 +1,24 @@
+@base <https://bbruns.github.io> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix admin: <http://webns.net/mvcb/> .
+
+<>
+    admin:errorReportsTo <mailto:leigh@ldodds.com> ;
+    admin:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
+    a foaf:PersonalProfileDocument ;
+    foaf:maker <https://bbruns.github.io#me> ;
+    foaf:primaryTopic <https://bbruns.github.io#me> .
+
+<https://bbruns.github.io#me>
+    a foaf:Person ;
+    foaf:depiction <http://www.fz-juelich.de/SharedDocs/Bilder/IBG/IBG-2/DE/Mitarbeiter/Bruns_Benjamin.jpg;jsessionid=03CFAA368364DF1040906B61064330F6?__blob=normal> ;
+    foaf:family_name "Bruns" ;
+    foaf:givenname "Benjamin" ;
+    foaf:homepage <http://www.fz-juelich.de/ibg/ibg-2/DE/Mitarbeiter/JPPC/Bruns_Benjamin/Bruns.html> ;
+    foaf:mbox_sha1sum "0508c5f0c36c3b581725f431532bc7a38d83a449" ;
+    foaf:name "Benjamin Bruns" ;
+    foaf:title "Mr." ;
+    foaf:workInfoHomepage <https://bbruns.github.ioScientific\u0020Data\u0020Manager> ;
+    foaf:workplaceHomepage <http://www.fz-juelich.de/ibg/ibg-2/EN/Home/home_node.html> .
