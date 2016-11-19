@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="http://webns.net/mvcb/">
+
+  <foaf:PersonalProfileDocument rdf:about="https://bbruns.github.io">
+    <ns0:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+    <ns0:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+    <foaf:maker rdf:resource="https://bbruns.github.io#me"/>
+    <foaf:primaryTopic rdf:resource="https://bbruns.github.io#me"/>
+  </foaf:PersonalProfileDocument>
+
+  <foaf:Person rdf:about="https://bbruns.github.io#me">
+    <foaf:depiction rdf:resource="http://www.fz-juelich.de/SharedDocs/Bilder/IBG/IBG-2/DE/Mitarbeiter/Bruns_Benjamin.jpg;jsessionid=03CFAA368364DF1040906B61064330F6?__blob=normal"/>
+    <foaf:family_name>Bruns</foaf:family_name>
+    <foaf:givenname>Benjamin</foaf:givenname>
+    <foaf:homepage rdf:resource="http://www.fz-juelich.de/ibg/ibg-2/DE/Mitarbeiter/JPPC/Bruns_Benjamin/Bruns.html"/>
+    <foaf:mbox_sha1sum>0508c5f0c36c3b581725f431532bc7a38d83a449</foaf:mbox_sha1sum>
+    <foaf:name>Benjamin Bruns</foaf:name>
+    <foaf:title>Mr.</foaf:title>
+    <foaf:workInfoHomepage rdf:resource="https://bbruns.github.ioScientific Data Manager"/>
+    <foaf:workplaceHomepage rdf:resource="http://www.fz-juelich.de/ibg/ibg-2/EN/Home/home_node.html"/>
+  </foaf:Person>
+
+</rdf:RDF>
